@@ -16,10 +16,10 @@ let state = null
 
 //object
 
-console.log(typeof "aryan");
-console.log(typeof age);
-console.log(typeof null);
-console.log(typeof undefined);
+console.log(typeof "aryan");  //string
+console.log(typeof age);    //number
+console.log(typeof null);    //gives output as objest
+console.log(typeof undefined);  // gives output as undefined
 
 
 
