@@ -4,6 +4,9 @@
 //link for Documentation => https://262.ecma-international.org/5.1/#sec-11.4.3  // Iska Table to Yaad Rehna Hi Chahiye 
 
 
+///////////////////////////////////////////////
+//There are 2types of data types 
+
 /* Learn this table
 
 1) Primitive Datatypes
